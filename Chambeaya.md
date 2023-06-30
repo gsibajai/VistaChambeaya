@@ -276,6 +276,58 @@ La página de valoración de anuncio estará integrada para calificar al trabaja
   <img src="https://raw.githubusercontent.com/gsibajai/VistaChambeaya/main/Imagenes/ValoracionAnuncioEdit.png" width="550px"/>
 </p>
 
+### Página valoración del cliente
+
+La página de valoración del cliente esta implementada para que los trabajadores puedan evaluar a las personas que los contrataron  esta página incluye los siguientes apartados:
+
+
+1.  Logo de la compañia del lado superior izquierdo el cual redirigira al menú principal
+
+2. Imagen de fondo
+
+3. Imagen de perfil del cliente 
+
+4. Nombre del cliente
+
+5. Nombre y fecha de realización del servicio
+
+6.  Calificacion y comentarios asignados o por asignar
+
+7. Icono de lapiz para calificar en caso de que este pendiente.
+
+8. footer
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gsibajai/VistaChambeaya/main/Imagenes/ValoracionUsuarioVista.png" width="550px"/>
+</p>
+
+
+### Página valoración del cliente Edición
+
+La página de valoración del cliente esta implementada para que los trabajadores puedan evaluar a las personas que los contrataron  esta página incluye los siguientes apartados:
+
+1.  Logo de la compañia del lado superior izquierdo el cual redirigira al menú principal
+
+2. Imagen de fondo
+
+3. Imagen de perfil del cliente
+
+4. Nombre del cliente
+
+5. Nombre y fecha de realización del servicio
+
+6.  Input para asignar calificación al servicio
+
+7. Cajon para agregar comentarios
+
+8. Botón para enviar evaluación 
+
+9. footer
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gsibajai/VistaChambeaya/main/Imagenes/ValoracionUsuarioEdit.png" width="550px"/>
+</p>
+
 
 ## Descripción de las vistas correspondientes al grupo 04
 
