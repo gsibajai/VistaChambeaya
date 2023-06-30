@@ -189,4 +189,4 @@ A esta vista se accede despues de pedir el registro por lo que solo solicita el 
   <img src="https://raw.githubusercontent.com/gsibajai/VistaChambeaya/main/Imagenes/Registro2.png" width="550px"/>
 </p>
 
-###
+### Valoracion de Anuncio Vista
