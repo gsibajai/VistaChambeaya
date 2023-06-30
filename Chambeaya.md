@@ -206,6 +206,10 @@ En dado caso de no recordar tu contraseña correcta debajo del campo de contrase
 
 Por último tenemos el footer el cual es de color azul verdoso que tiene algunos links para la página de **términos y condiciones**, **aviso de privacidad**, **accesibilidad** y **ayuda**.
 
+<p align="center">
+  <img src="https://github.com/gsibajai/VistaChambeaya/blob/main/Imagenes/inicioSesion.jpg" width="550px"/>
+</p>
+
 ###  Olvidé contraseña
 En la página de **Olvide mi contraseña** tenemos un navbar sencillo, el cual tiene solo dos elementos, en el extremo izquierdo esta el logo de chambeaya y en el extremo derecho tenemos un link que nos dirige a la página de **Iniciar sesión**
 
@@ -215,6 +219,10 @@ El contenido de la página es una imagen de fondo, y en el centro tenemos un rec
 
 y un campo en el cuál se solicita el correo del usuario que quiere reestablecer su contraseña.
 En la esquina inferior derecha tenemos un boton para continuar.
+
+<p align="center">
+  <img src="https://github.com/gsibajai/VistaChambeaya/blob/main/Imagenes/forgotpass2.jpg" width="550px"/>
+</p>
 
 ###  Token Olvidé contraseña
 En la página de **Token Olvide mi contraseña** tenemos un navbar sencillo, el cual tiene solo dos elementos, en el extremo izquierdo esta el logo de chambeaya y en el extremo derecho tenemos un link que nos dirige a la página de **Iniciar sesión**
@@ -228,7 +236,21 @@ El contenido de la página es una imagen de fondo, y en el centro tenemos un rec
 y un campo en el cuál se solicita el token que se le envio al usuario por correo.
 Para enviar el token es necesario que des click al boton de confirmar que se encuentra abajo.
 
+<p align="center">
+  <img src="https://github.com/gsibajai/VistaChambeaya/blob/main/Imagenes/token.png" width="550px"/>
+</p>
 
+###  Cambiar contraseña
+En la página de **Cambiar mi contraseña** tenemos un navbar sencillo, el cual tiene solo dos elementos, en el extremo izquierdo esta el logo de chambeaya y en el extremo derecho tenemos un link que nos dirige a la página de **Iniciar sesión**
+
+El contenido de la página es una imagen de fondo, y en el centro tenemos un recuadro que tiene por titulo *Cambiar Contraseña* 
+
+y dos campos en donde se solicitala contraseña nueva del usuario.
+Para cambiarla es necesario que des click al boton de confirmar que se encuentra abajo.
+
+<p align="center">
+  <img src="https://github.com/gsibajai/VistaChambeaya/blob/main/Imagenes/changePass.jpg" width="550px"/>
+</p>
 
 ### Componente Quejas, sugerencia y comentarios
 
@@ -247,6 +269,11 @@ Solicita dos campos
 
 Por último en la esquina inferior derecha tienes un boton para enviar la información.
 
+
+<p align="center">
+  <img src="https://github.com/gsibajai/VistaChambeaya/blob/main/Imagenes/quejas.jpg" width="550px"/>
+</p>
+
 ### Términos y condiciones
 
 La página de **Términos y condiciones** es una página de texto plano, tiene un navbar sencillo que solo tiene el logo de chambeaya en el extremo izquierdo.
@@ -254,12 +281,20 @@ Tenemos el título de "Términos y condiciones" centrado en la página y debajo 
 
 En el inferior de la página tenemos un boton que nos regresa a la página principal.
 
+<p align="center">
+  <img src="https://github.com/gsibajai/VistaChambeaya/blob/main/Imagenes/terminosCondiciones.jpg" width="550px"/>
+</p>
+
 ### Aviso de privacidad
 
 La página de **Aviso de privacidad** es una página de texto plano, tiene un navbar sencillo que solo tiene el logo de chambeaya en el extremo izquierdo.
 Tenemos el título de "Aviso de privacidad" centrado en la página y debajo del titulo tenemos el escrito de los terminos y condiciones que tiene chambeaya.
 
 En el inferior de la página tenemos un boton que nos regresa a la página principal.
+
+<p align="center">
+  <img src="https://github.com/gsibajai/VistaChambeaya/blob/main/Imagenes/aviso.png" width="550px"/>
+</p>
 
 ### Buscador
 La página del buscador  tenemos un navbar más completo, que tiene tres elementos:
@@ -282,6 +317,10 @@ Categoria
 
 En el centro tendremos un carrousel que mostrara cuatro cards que tendranla foto del ususario, su nombre y oficio, la puntuaciòn y una imagen de sus servicios.
 
+<p align="center">
+  <img src="https://github.com/ejreyesh/ejreyesh-prueba/blob/main/src/images/listado-oficios.png" width="550px"/>
+</p>
+
 ### Componente y formulario  preguntas del anuncio
 El componete de preguntas se encuentra en la página de los servicios donde las personas pueden resolver sus dudas publicando preguntas o viendo las preguntas que otros usuarios ya realizaron.
 Este apartado solo es de vista, del lado izquierdo podemos ver la foto del usuario que pregunta y su pregunta
@@ -290,3 +329,7 @@ Abajo de este apartado tenemos un boton que abre un modal en el cual nosotros po
 
 
 Si ya habias iniciado sesión se abrirá un modal en el que tendras un campo a llenar que es donde se cóloca la pregunta o la duda que tienes.
+
+<p align="center">
+  <img src="https://github.com/gsibajai/VistaChambeaya/blob/main/Imagenes/preguntas.jpg" width="550px"/>
+</p>
