@@ -248,7 +248,7 @@ La página de valoración de anuncio estara integrada para calificar al trabajad
   <img src="https://raw.githubusercontent.com/gsibajai/VistaChambeaya/main/Imagenes/ValoracionAnuncioVista.png" width="550px"/>
 </p>
 
-Página de valoración de anuncio Edición
+### Página de valoración de anuncio Edición
 
 La página de valoración de anuncio estará integrada para calificar al trabajador el cual ya presto los servicios esta página incluirá los siguientes elementos
  
