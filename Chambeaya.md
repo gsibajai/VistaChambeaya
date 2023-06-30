@@ -180,19 +180,19 @@ Página de registro
 
 La página de registro es la página donde el usuario podrá crear su cuenta y cuenta con los siguientes elementos:
 
-1. Logo de la compañia del lado superior izquierdo el cual redirigira a home en caso de que solo quieras ver la página sin tener cuenta
+1. Logo de la compañía del lado superior izquierdo el cual redirigirá a home en caso de que solo quieras ver la página sin tener cuenta.
 
-2. Botón de inicio de sesión del lado superior derecho el cual redirigira al formulario para iniciar sesion en caso de que ya se cuente con un usuario
+2. Botón de inicio de sesión del lado superior derecho el cual redirigirá al formulario para iniciar sesión en caso de que ya se cuente con un usuario.
 
-3. Imagen de fondo
+3. Imagen de fondo.
 
 4. Formulario de registro en el cual encontramos 3 diferentes inputs de correo, nick y contraseña los cuales contarán con validaciones.
 
-5. Icono de ojo en caso de querer ver la contraseña que se esta ingresando para la creación de la cuenta
+5. Icono de ojo en caso de querer ver la contraseña que se está ingresando para la creación de la cuenta.
 
-6. Captcha para evitar el spam de cuentas
+6. Captcha para evitar el spam de cuentas.
 
-7.  Botón de continuar que enviara la información del formulario y en caso de tener los campos correctos redireccionara a la página de registro2
+7.  Botón de continuar que enviara la información del formulario y en caso de tener los campos correctos redireccionara a la página de registro2.
 
 8. Footer
 
@@ -204,17 +204,17 @@ La página de registro es la página donde el usuario podrá crear su cuenta y c
 
 La página de registro2 es la página donde el usuario ingresará el token para poder terminar con el proceso de creación de su cuenta:
 
-1. Logo de la compañia del lado superior izquierdo el cual redirigira a home en caso de que solo quieras ver la página sin tener cuenta
+1. Logo de la compañía del lado superior izquierdo el cual redirigirá a home en caso de que solo quieras ver la página sin tener cuenta.
 
-2. Botón de inicio de sesión del lado superior derecho el cual redirigira al formulario para iniciar sesion en caso de que ya se cuente con un usuario
+2. Botón de inicio de sesión del lado superior derecho el cual redirigirá al formulario para iniciar sesión en caso de que ya se cuente con un usuario.
 
-3. Imagen de fondo
+3. Imagen de fondo.
 
-4. Texto de indicaciones para ingresar el Token
+4. Texto de indicaciones para ingresar el Token.
 
-5. Input que recibira el token enviado al correo electronico
+5. Input que recibirá el token enviado al correo electrónico.
 
-6. Botón para enviar formulario
+6. Botón para enviar formulario.
 
 7. Footer.
 
@@ -224,25 +224,25 @@ La página de registro2 es la página donde el usuario ingresará el token para 
 
 ### Página de valoración de anuncio Vista
 
-La página de valoración de anuncio estara integrada para calificar al trabajador el cual ya presto los servicios esta página incluirá los siguientes elementos
+La página de valoración de anuncio estará integrada para calificar al trabajador el cual ya presto los servicios esta página incluirá los siguientes elementos.
  
-1.  Logo de la compañia del lado superior izquierdo el cual redirigira al menú principal
+1.  Logo de la compañía del lado superior izquierdo el cual redirigirá al menú principal.
 
-2. Imagen de fondo
+2. Imagen de fondo.
 
-3. Imagen de perfil del prestador del servicio
+3. Imagen de perfil del prestador del servicio.
 
-4. Nombre del prestador del servicio
+4. Nombre del prestador del servicio.
 
-5. Profesion del prestador del  servicio
+5. Profesión del prestador del servicio.
 
-6. Nombre y fecha de realización del servicio
+6. Nombre y fecha de realización del servicio.
 
-7.  Calificacion y comentarios asignados o por asignar
+7.  Calificación y comentarios asignados o por asignar.
 
-8. Icono de lapiz para calificar en caso de que este pendiente.
+8. Icono de lápiz para calificar en caso de que este pendiente.
 
-9. footer
+9. Footer.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gsibajai/VistaChambeaya/main/Imagenes/ValoracionAnuncioVista.png" width="550px"/>
@@ -250,27 +250,27 @@ La página de valoración de anuncio estara integrada para calificar al trabajad
 
 ### Página de valoración de anuncio Edición
 
-La página de valoración de anuncio estará integrada para calificar al trabajador el cual ya presto los servicios esta página incluirá los siguientes elementos
+La página de valoración de anuncio estará integrada para calificar al trabajador el cual ya presto los servicios esta página incluirá los siguientes elementos:
  
-1.  Logo de la compañia del lado superior izquierdo el cual redirigira al menú principal
+1.  Logo de la compañía del lado superior izquierdo el cual redirigirá al menú principal.
 
-2. Imagen de fondo
+2. Imagen de fondo.
 
-3. Imagen de perfil del prestador del servicio
+3. Imagen de perfil del prestador del servicio.
 
-4. Nombre del prestador del servicio
+4. Nombre del prestador del servicio.
 
-5. Profesion del prestador del  servicio
+5. Profesión del prestador del servicio.
 
-6. Nombre y fecha de realización del servicio
+6. Nombre y fecha de realización del servicio.
 
-7.  Input para asignar calificación al servicio
+7.  Input para asignar calificación al servicio.
 
-8. Cajon para agregar comentarios
+8. Cajón para agregar comentarios.
 
-9. Botón para enviar evaluación 
+9. Botón para enviar evaluación.
 
-9. footer
+9. Footer.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gsibajai/VistaChambeaya/main/Imagenes/ValoracionAnuncioEdit.png" width="550px"/>
@@ -278,24 +278,24 @@ La página de valoración de anuncio estará integrada para calificar al trabaja
 
 ### Página valoración del cliente
 
-La página de valoración del cliente esta implementada para que los trabajadores puedan evaluar a las personas que los contrataron  esta página incluye los siguientes apartados:
+La página de valoración del cliente esta implementada para que los trabajadores puedan evaluar a las personas que los contrataron esta página incluye los siguientes apartados:
 
 
-1.  Logo de la compañia del lado superior izquierdo el cual redirigira al menú principal
+1.  Logo de la compañía del lado superior izquierdo el cual redirigirá al menú principal.
 
-2. Imagen de fondo
+2. Imagen de fondo.
 
-3. Imagen de perfil del cliente 
+3. Imagen de perfil del cliente .
 
-4. Nombre del cliente
+4. Nombre del cliente.
 
-5. Nombre y fecha de realización del servicio
+5. Nombre y fecha de realización del servicio.
 
-6.  Calificacion y comentarios asignados o por asignar
+6.  Calificación y comentarios asignados o por asignar.
 
-7. Icono de lapiz para calificar en caso de que este pendiente.
+7. Icono de lápiz para calificar en caso de que este pendiente.
 
-8. footer
+8. Footer.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gsibajai/VistaChambeaya/main/Imagenes/ValoracionUsuarioVista.png" width="550px"/>
@@ -304,25 +304,25 @@ La página de valoración del cliente esta implementada para que los trabajadore
 
 ### Página valoración del cliente Edición
 
-La página de valoración del cliente esta implementada para que los trabajadores puedan evaluar a las personas que los contrataron  esta página incluye los siguientes apartados:
+La página de valoración del cliente esta implementada para que los trabajadores puedan evaluar a las personas que los contrataron esta página incluye los siguientes apartados:
 
-1.  Logo de la compañia del lado superior izquierdo el cual redirigira al menú principal
+1.  Logo de la compañía del lado superior izquierdo el cual redirigirá al menú principal.
 
-2. Imagen de fondo
+2. Imagen de fondo.
 
-3. Imagen de perfil del cliente
+3. Imagen de perfil del cliente.
 
-4. Nombre del cliente
+4. Nombre del cliente.
 
-5. Nombre y fecha de realización del servicio
+5. Nombre y fecha de realización del servicio.
 
-6.  Input para asignar calificación al servicio
+6.  Input para asignar calificación al servicio.
 
-7. Cajon para agregar comentarios
+7. Cajón para agregar comentarios.
 
-8. Botón para enviar evaluación 
+8. Botón para enviar evaluación.
 
-9. footer
+9. Footer.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gsibajai/VistaChambeaya/main/Imagenes/ValoracionUsuarioEdit.png" width="550px"/>
