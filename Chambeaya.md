@@ -176,14 +176,47 @@ Las actividades relacionadas con el oficio, se podrán eliminar y agregar según
 
 ### Registro 
 
-A esta vista podrá acceder cualquier usuario, la vista se conforma por un formulario en el cual se pondrá el correo, nick y contraseña ademas de contar con un captcha, ademas de contar con un botón de envio con el cual nos redirigira a la parte 2 de la página
+Página de registro 
+
+La página de registro es la página donde el usuario podrá crear su cuenta y cuenta con los siguientes elementos:
+
+1. Logo de la compañia del lado superior izquierdo el cual redirigira a home en caso de que solo quieras ver la página sin tener cuenta
+
+2. Botón de inicio de sesión del lado superior derecho el cual redirigira al formulario para iniciar sesion en caso de que ya se cuente con un usuario
+
+3. Imagen de fondo
+
+4. Formulario de registro en el cual encontramos 3 diferentes inputs de correo, nick y contraseña los cuales contarán con validaciones.
+
+5. Icono de ojo en caso de querer ver la contraseña que se esta ingresando para la creación de la cuenta
+
+6. Captcha para evitar el spam de cuentas
+
+7.  Botón de continuar que enviara la información del formulario y en caso de tener los campos correctos redireccionara a la página de registro2
+
+8. Footer
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/gsibajai/VistaChambeaya/main/Imagenes/Registro1.png" width="550px"/>
 </p>
 
 ### Registro2
 
-A esta vista se accede despues de pedir el registro por lo que solo solicita el token de autenticación el cual será enviado por correo electronico, este apartado solo contará con un inpút en el cual se pondrá el token y un boton para enviarlo .
+La página de registro2 es la página donde el usuario ingresará el token para poder terminar con el proceso de creación de su cuenta:
+
+1. Logo de la compañia del lado superior izquierdo el cual redirigira a home en caso de que solo quieras ver la página sin tener cuenta
+
+2. Botón de inicio de sesión del lado superior derecho el cual redirigira al formulario para iniciar sesion en caso de que ya se cuente con un usuario
+
+3. Imagen de fondo
+
+4. Texto de indicaciones para ingresar el Token
+
+5. Input que recibira el token enviado al correo electronico
+
+6. Botón para enviar formulario
+
+7. Footer.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gsibajai/VistaChambeaya/main/Imagenes/Registro2.png" width="550px"/>
