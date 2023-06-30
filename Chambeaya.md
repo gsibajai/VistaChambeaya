@@ -172,3 +172,21 @@ Las actividades relacionadas con el oficio, se podrán eliminar y agregar según
 </p>
 <br/>
 
+## Descripción de las vistas correspondientes al grupo 03
+
+### Registro 
+
+A esta vista podrá acceder cualquier usuario, la vista se conforma por un formulario en el cual se pondrá el correo, nick y contraseña ademas de contar con un captcha, ademas de contar con un botón de envio con el cual nos redirigira a la parte 2 de la página
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gsibajai/VistaChambeaya/main/Imagenes/Registro1.png" width="550px"/>
+</p>
+
+### Registro2
+
+A esta vista se accede despues de pedir el registro por lo que solo solicita el token de autenticación el cual será enviado por correo electronico, este apartado solo contará con un inpút en el cual se pondrá el token y un boton para enviarlo .
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gsibajai/VistaChambeaya/main/Imagenes/Registro2.png" width="550px"/>
+</p>
+
+###
