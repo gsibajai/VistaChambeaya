@@ -222,7 +222,60 @@ La página de registro2 es la página donde el usuario ingresará el token para 
   <img src="https://raw.githubusercontent.com/gsibajai/VistaChambeaya/main/Imagenes/Registro2.png" width="550px"/>
 </p>
 
-### Valoracion de Anuncio Vista
+### Página de valoración de anuncio Vista
+
+La página de valoración de anuncio estara integrada para calificar al trabajador el cual ya presto los servicios esta página incluirá los siguientes elementos
+ 
+1.  Logo de la compañia del lado superior izquierdo el cual redirigira al menú principal
+
+2. Imagen de fondo
+
+3. Imagen de perfil del prestador del servicio
+
+4. Nombre del prestador del servicio
+
+5. Profesion del prestador del  servicio
+
+6. Nombre y fecha de realización del servicio
+
+7.  Calificacion y comentarios asignados o por asignar
+
+8. Icono de lapiz para calificar en caso de que este pendiente.
+
+9. footer
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gsibajai/VistaChambeaya/main/Imagenes/ValoracionAnuncioVista.png" width="550px"/>
+</p>
+
+Página de valoración de anuncio Edición
+
+La página de valoración de anuncio estará integrada para calificar al trabajador el cual ya presto los servicios esta página incluirá los siguientes elementos
+ 
+1.  Logo de la compañia del lado superior izquierdo el cual redirigira al menú principal
+
+2. Imagen de fondo
+
+3. Imagen de perfil del prestador del servicio
+
+4. Nombre del prestador del servicio
+
+5. Profesion del prestador del  servicio
+
+6. Nombre y fecha de realización del servicio
+
+7.  Input para asignar calificación al servicio
+
+8. Cajon para agregar comentarios
+
+9. Botón para enviar evaluación 
+
+9. footer
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gsibajai/VistaChambeaya/main/Imagenes/ValoracionAnuncioEdit.png" width="550px"/>
+</p>
+
 
 ## Descripción de las vistas correspondientes al grupo 04
 
