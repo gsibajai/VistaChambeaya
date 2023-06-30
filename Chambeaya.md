@@ -190,3 +190,103 @@ A esta vista se accede despues de pedir el registro por lo que solo solicita el 
 </p>
 
 ### Valoracion de Anuncio Vista
+
+
+## Descripción de las vistas correspondientes al grupo 06
+
+
+###  Inicio de sesión
+
+En la página de **inicio de sesión** tenemos un navbar sencillo, de color blanco en el extremo izquierdo se encuentra el logo de chambeaya, y en el otro extremo tenemos un link que nos lleva a la pestana de **Registro usuario**
+
+El contenido principal de la página es una imagen de fondo con un recuadro situado del lado izquierdo en el cuál tenemos dos input uno solicita el *correo del usuario* y el otro solcita la *contraseña del usuario*.
+
+Una vez que los dos campos se hayan llenado se da click al boton de que se encuentra debajo de los campos para poder acceder a la sesión.
+En dado caso de no recordar tu contraseña correcta debajo del campo de contraseña hay un link que lleva a la pǵina de **Olvide contraseña**
+
+Por último tenemos el footer el cual es de color azul verdoso que tiene algunos links para la página de **términos y condiciones**, **aviso de privacidad**, **accesibilidad** y **ayuda**.
+
+###  Olvidé contraseña
+En la página de **Olvide mi contraseña** tenemos un navbar sencillo, el cual tiene solo dos elementos, en el extremo izquierdo esta el logo de chambeaya y en el extremo derecho tenemos un link que nos dirige a la página de **Iniciar sesión**
+
+El contenido de la página es una imagen de fondo, y en el centro tenemos un recuadro que tiene por titulo *Olvide mi contraseña* un texto informativo:
+
+*Para restablecer la contraseña se enviará un token a tu cuenta de correo al presionar el botón de continuar aparecerá una ventana con el opción para igresar el token, una vez se compruebe que el token es el correcto te redirigira al cambio de contraseña.*
+
+y un campo en el cuál se solicita el correo del usuario que quiere reestablecer su contraseña.
+En la esquina inferior derecha tenemos un boton para continuar.
+
+###  Token Olvidé contraseña
+En la página de **Token Olvide mi contraseña** tenemos un navbar sencillo, el cual tiene solo dos elementos, en el extremo izquierdo esta el logo de chambeaya y en el extremo derecho tenemos un link que nos dirige a la página de **Iniciar sesión**
+
+El contenido de la página es una imagen de fondo, y en el centro tenemos un recuadro que tiene por titulo *Token de validación* un texto informativo:
+
+*Ya se ha enviado el token, ingresalo en el siguiente apartado y podrás cambiar tu contraseña,*
+
+*Recuerda que el token es válido unicamente por 15 minutos*
+
+y un campo en el cuál se solicita el token que se le envio al usuario por correo.
+Para enviar el token es necesario que des click al boton de confirmar que se encuentra abajo.
+
+
+
+### Componente Quejas, sugerencia y comentarios
+
+El componente se encuentra en la página **principal**
+Como título pregunta lo siguiente:
+
+*¿Tienes algún comentario queja o sugerencia?*
+
+Como subtítulo tiene lo siguiente:
+
+*Deja tu mensaje, tu opinión es muy importante pronto nos contactaremos contigo.*
+
+Solicita dos campos
+1. El correo electronico
+2. El mensaje que quieres enviar
+
+Por último en la esquina inferior derecha tienes un boton para enviar la información.
+
+### Términos y condiciones
+
+La página de **Términos y condiciones** es una página de texto plano, tiene un navbar sencillo que solo tiene el logo de chambeaya en el extremo izquierdo.
+Tenemos el título de "Términos y condiciones" centrado en la página y debajo del titulo tenemos el escrito de los terminos y condiciones que tiene chambeaya.
+
+En el inferior de la página tenemos un boton que nos regresa a la página principal.
+
+### Aviso de privacidad
+
+La página de **Aviso de privacidad** es una página de texto plano, tiene un navbar sencillo que solo tiene el logo de chambeaya en el extremo izquierdo.
+Tenemos el título de "Aviso de privacidad" centrado en la página y debajo del titulo tenemos el escrito de los terminos y condiciones que tiene chambeaya.
+
+En el inferior de la página tenemos un boton que nos regresa a la página principal.
+
+### Buscador
+La página del buscador  tenemos un navbar más completo, que tiene tres elementos:
+1. En el extremo izquierdo esta el logo de Chambeaya.
+2. En el centro tenemos un buscador.
+3. En el extremo derecho tenemos el perfil del ususario
+
+Tenemos un componente que sirve como filtro en el lado izquierdo, el componente muestra dos formas de filtrar la información en este se puede filtrar por fecha y por categoría.
+
+Fecha
+- Ultimo mes
+- Ultima semana
+- Ultimos el día de hoy
+
+Categoria
+- Plomero
+- Carpintero
+- Electricista
+- Pintor
+
+En el centro tendremos un carrousel que mostrara cuatro cards que tendranla foto del ususario, su nombre y oficio, la puntuaciòn y una imagen de sus servicios.
+
+### Componente y formulario  preguntas del anuncio
+El componete de preguntas se encuentra en la página de los servicios donde las personas pueden resolver sus dudas publicando preguntas o viendo las preguntas que otros usuarios ya realizaron.
+Este apartado solo es de vista, del lado izquierdo podemos ver la foto del usuario que pregunta y su pregunta
+mientras que del otro lado podemos ver la foto del usuario que ofrece el servicio y la contestacion que dio.
+Abajo de este apartado tenemos un boton que abre un modal en el cual nosotros podemos realizar una pregunta, pero para poder hacer esto es necesario que estes registrado, en dado caso de no estarlo te enviará a la página de iniciar sesión.
+
+
+Si ya habias iniciado sesión se abrirá un modal en el que tendras un campo a llenar que es donde se cóloca la pregunta o la duda que tienes.
