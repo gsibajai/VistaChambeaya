@@ -512,12 +512,10 @@ Por último, un botón **Volver a página principal** que redirige a la página 
 
 ## Preguntas frecuentes
 
-![Screenshot from 2023-06-29 19-58-15](https://github.com/iecamachog/template-and-images/assets/132395694/6b94ca7a-52b9-4ef0-9505-453c384103b2)
+![Captura de pantalla 2023-06-30 111041](https://github.com/gsibajai/VistaChambeaya/assets/132395694/2a7829bb-ae3e-4f8a-ba12-22f820b50784)
 
-
-Sera un componente el cual llevara un registro de las preguntas que le han realizado al trabajador sobre su servicio, estas preguntas ayudaran a los clientes a identificar información más detallada sobre un servicio.
-El contenido de este componente es foto de perfil del cliente y un cuadro de texto con relación a un comentario del cliente, foto de perfil del trabajador y un cuadro de texto con relación a la respuesta del cliente cuadro de texto para ingresar una nueva pregunta y botón para enviar nueva pregunta.
-
+Sera un componente que llevará las preguntas que el trabajador concidere importantes para detallar más su trabajo, estas preguntas se ingresan al regitrar servicios, se muestra en el detalle de mi servicio cuando un cliente vea la tarjeta y por ultimo du información se puede editar en detalles de miervicio.
+Solo esta formado por 2 campos, pregunta y respuesa.
  
 ##  Detalle de mis servicios
 
@@ -548,7 +546,7 @@ En resumen, esta página proporciona una visión general completa de un trabajad
 
 ## Detalle de mis servicios editar información 
 
-![Screenshot from 2023-06-29 20-15-41](https://github.com/iecamachog/template-and-images/assets/132395694/4d777974-1f8d-4949-be7a-214afc356117)
+![Captura de pantalla 2023-07-03 085834](https://github.com/gsibajai/VistaChambeaya/assets/132395694/c4c27fc3-f916-4b12-bfb4-00f8d425de27)
 
 
 Esta página contiene la lista de las fotos de trabajos realizados, en cada una lleva la opción de borrar la foto, los datos editables son: 
@@ -557,6 +555,11 @@ Descripción detallada.
 Actividades que realiza.
 Dirección del taller. 
 Los campos que no son editables Categoría oficio, ya que esta opción no es modificable para evitar conflictos del trabajo que promueve el usuario trabajador.
+
+De la misma manera, exitira otra pantalla para la edición de preguntas frecuentes, dentro de la pantalla editar mi información.
+
+![Captura de pantalla 2023-06-30 114833](https://github.com/gsibajai/VistaChambeaya/assets/132395694/0870f931-e555-4ca2-9803-d74a5f947859)
+
 
 ## Descripción de las vistas correspondientes al grupo 06
 
