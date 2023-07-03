@@ -519,7 +519,7 @@ Solo esta formado por 2 campos, pregunta y respuesa.
  
 ##  Detalle de mis servicios
 
-![Screenshot from 2023-06-29 19-58-52](https://github.com/iecamachog/template-and-images/assets/132395694/bc675709-462a-4ccc-b339-da0bbb90ab1e)
+![Captura de pantalla 2023-07-03 085834](https://github.com/gsibajai/VistaChambeaya/assets/132395694/c4c27fc3-f916-4b12-bfb4-00f8d425de27)
 
 
 Esta página sirve como una plataforma para mostrar información relevante sobre un trabajador específico, incluyendo detalles sobre su oficio, servicios que ofrece y trabajos previos realizados. Algunos de los elementos que se pueden encontrar en esta página incluyen:
@@ -546,7 +546,7 @@ En resumen, esta página proporciona una visión general completa de un trabajad
 
 ## Detalle de mis servicios editar información 
 
-![Captura de pantalla 2023-07-03 085834](https://github.com/gsibajai/VistaChambeaya/assets/132395694/c4c27fc3-f916-4b12-bfb4-00f8d425de27)
+![Captura de pantalla 2023-07-03 090311](https://github.com/gsibajai/VistaChambeaya/assets/132395694/ef657e68-d047-4e69-97e0-72036c603fa6)
 
 
 Esta página contiene la lista de las fotos de trabajos realizados, en cada una lleva la opción de borrar la foto, los datos editables son: 
