@@ -52,7 +52,7 @@ Componente donde se le pasara un número del 0 al 10 y este retornara en estrell
 ## Componente de formulario a pasos
 ### Paso 1 Selección de plan
 
-![image](https://raw.githubusercontent.com/rapulidom/sources/main/images/varias/plan1.png)
+<img src="https://raw.githubusercontent.com/gsibajai/VistaChambeaya/main/Imagenes/Plan.png" width=500px>
 
 3 Opciones de los planes con componentes
 
