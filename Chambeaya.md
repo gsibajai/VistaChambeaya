@@ -125,23 +125,36 @@ Este menú se va a localizar en la parte izquierda de la pantalla y será mostra
 #### Registrar un servicio
 Esta página permite que los usuarios puedan registrar el servicio que ofrecen, sin embargo, para poder acceder a este apartado del sistema es necesario tener un pago vigente de los planes que se ofrecen en la plataforma.
 
-La vista incluye la presencia del sidebar en la parte izquierda de la pantalla, sin embargo, el elemento más importante es el formulario en donde se ingresan los datos del servicio ofrecido. Dicho formulario se divide en 3 secciones; la primera de ellas contiene los campos para ingresar el título del servicio, una descripción detallada, la categoría del servicio ofrecido y las actividades que el anunciante realiza.
+La vista incluye la presencia del sidebar en la parte izquierda de la pantalla, sin embargo, el elemento más importante es el formulario en donde se ingresan los datos del servicio ofrecido. Dicho formulario se compone de 5 secciones, en la primera de ellas se ingresan los datos generales del servicio, como son; el nombre del servicio, una descripción detallada, la categoría de oficio a la que pertenece y las actividades concretas que se desempeñan.
 <p align="center">
-  <img src="https://github.com/ejreyesh/ejreyesh-prueba/blob/main/src/images/registro-servicio-1.png" width="550px"/>
+  <img src="https://github.com/ejreyesh/ejreyesh-prueba/blob/main/src/images/registro-servicio-a.png" width="550px"/>
 </p>
 <br/>
 
-En la segunda sección del formulario, se cuenta con un campo para ingresar la dirección en la que se ubica el taller del anunciante, esto con la finalidad de que el contratante pueda ir a hacer un trato directo si así lo desea.
-
-Además, en esta parte del formulario se permite al usuario subir imágenes donde muestre evidencias de su trabajo. Para esta acción se hará uso de un componente `Image Cropper` para el usuario pueda editar sus fotografías dentro de la misma plataforma.
+En la segunda etapa del formulario se registra la dirección del local en el que se puede encontrar físicamente al prestador del oficio. Además, haciendo uso de un componente *Image Cropper* se podrán subir fotografías que muestren evidencias de los trabajos realizados.
 <p align="center">
-  <img src="https://github.com/ejreyesh/ejreyesh-prueba/blob/main/src/images/registro-servicio-2.png" width="550px"/>
+  <img src="https://github.com/ejreyesh/ejreyesh-prueba/blob/main/src/images/registro-servicio-b.png" width="550px"/>
 </p>
 <br/>
 
-En la tercera sección del formulario para el registro de un servicio, solo se muestra un resumen de la información ingresada por el usuario, esto con el propósito de que el anunciante verifique el contenido de su publicación antes de que sea guardada. Es importante mencionar que el formulario cuenta con los mecanismos necesarios para avanzar y regresar a alguna de sus secciones.
+En la tercera sección del formulario se van a encontrar preguntas de tres tipos, con respuestas binarias (si/no), con respuestas provenientes de un catálogo (valores relacionados entre sí y que dan respuesta a la pregunta realizada) y finalmente, preguntas con campos de entrada para que se ingrese un valor numérico.
 <p align="center">
-  <img src="https://github.com/ejreyesh/ejreyesh-prueba/blob/main/src/images/registro-servicio-3.png" width="550px"/>
+  <img src="https://github.com/ejreyesh/ejreyesh-prueba/blob/main/src/images/registro-servicio-c.png" width="550px"/>
+</p>
+<br/>
+
+
+En la cuarta parte del formulario se agrega un componente que le permite al usuario registrar un conjunto de preguntas frecuentes que se generan con respecto al oficio que desempeña. Una vez que una pregunta ya se guardó dentro de la lista, también puede ser eliminada.
+<p align="center">
+  <img src="https://github.com/ejreyesh/ejreyesh-prueba/blob/main/src/images/registro-servicio-d.png" width="550px"/>
+</p>
+<br/>
+
+Finalmente, en la quinta y última etapa del formulario, se muestra un resumen de toda la información capturada por el usuario. Al presionar el botón *Guardar*, toda la información se sube a la plataforma para su revisión y posterior publicación.
+
+Es importante mencionar que en todas las etapas del formulario se agregaron botones para navegar entre las distintas secciones del formulario.
+<p align="center">
+  <img src="https://github.com/ejreyesh/ejreyesh-prueba/blob/main/src/images/registro-servicio-e.png" width="550px"/>
 </p>
 <br/>
 
